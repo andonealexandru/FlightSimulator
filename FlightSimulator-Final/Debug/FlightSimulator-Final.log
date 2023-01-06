@@ -1,0 +1,19 @@
+﻿  FlightSimulator-Final.cpp
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\MTLLoader.h(30,8): warning C4101: 'value': unreferenced local variable
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\Camera.h(277,32): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\Camera.h(282,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\Camera.h(288,32): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\Camera.h(293,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\Camera.h(308,32): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\Camera.h(313,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\Camera.h(319,32): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\Camera.h(324,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\andon\Desktop\arhive SMG\_external\glfw-3.3.4.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\FlightSimulator-Final.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\FlightSimulator-Final.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\FlightSimulator-Final.cpp(161,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\FlightSimulator-Final.cpp(254,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\FlightSimulator-Final.cpp(287,45): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\FlightSimulator-Final\FlightSimulator-Final.cpp(238,11): warning C4101: 'position': unreferenced local variable
+  FlightSimulator-Final.vcxproj -> C:\Users\andon\Desktop\arhive SMG\FlightSimulator-Final\Debug\FlightSimulator-Final.exe
